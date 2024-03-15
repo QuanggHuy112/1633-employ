@@ -1,0 +1,4 @@
+.table-bordered>:not(caption)>*>* {
+    border-width: 0 var(--bs-border-width);
+    text-align: center
+}
